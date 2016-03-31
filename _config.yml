@@ -1,0 +1,28 @@
+name: thecomfortablemind
+favicon: null
+layout_spectrum: 0.8202882527839392
+typography_spectrum: 0.761930552078411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5912382309325039
+  lightness: 0.1279821095522493
+  saturation: 0.5602781309280545
+  rhythmicContrast: 0.7432709499262273
+purpose: []
